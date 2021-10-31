@@ -1,8 +1,12 @@
+import React from 'react'
+import Register from './components/Register'
 
 function App() {
   return (
-    <div></div>
-  );
+    <div>
+      <Register/>
+    </div>
+  )
 }
 
-export default App;
+export default App
